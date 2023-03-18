@@ -1,0 +1,25 @@
+--------------------------------------SELENA---------------------------------------
+
+Today we are so busy with work in our lives that it sometimes gets overwhelming. 
+Well, we introduce to you, SELENA, a futuristic voice assistant that can: 
+	* Make to do lists for you. 
+	* Search the internet to find answers to your queries.
+	* Do your basic tasks on your PC or Laptop with just your voice.
+	* Make general conversation. 
+	* And so much more. 
+
+We have used an open source python script and library to build this. 
+
+The project contains:
+
+* A Python source file with all the code. 
+* A read me file to get you started quickly. 
+* A Power Point Presentation to introduce you to AI powered voice assistant technologies. 
+
+How to get started:
+
+* Clone the repository from github to your local environment. 
+* Open the source file named SELENA.py in VS Code.
+* Run in VS Code and test SELENA out. 
+
+We thank you for taking out valuable time to go through our project. 
