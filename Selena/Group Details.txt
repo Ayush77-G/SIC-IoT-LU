@@ -1,0 +1,20 @@
+/*This text file contains details of all the members who have contributed to this project.*/
+The project name is SELENA, a futuristic voice assistant. 
+
+List of Contributors
+
+1) Divyanshu Gupta
+	Lucknow University Roll Number: 2110014045087
+	Course: BCA 2nd Year
+2) Parv Gupta
+	Lucknow University Roll Number: 2110014045023
+	Course: BCA 2nd Year
+3) Divyansh Chaurasia
+	Lucknow University Roll Number: 2110014045006
+	Course: BCA 2nd Year
+4) Abdullah Anzar
+	Lucknow University Roll Number: 2110014045046
+	Course: BCA 2nd Year
+5) Vinayak Rathore
+	Lucknow University Roll Number: 2110014045125
+	Course: BCA 2nd Year
