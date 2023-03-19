@@ -1,0 +1,11 @@
+
+Group no. = 4
+Topic = Security Camera using Pi camera and ultrasonic sensor
+
+Group Members -  (MCA 2nd year)
+
+Yashi Dixit(2110014325023)
+Pratishtha Pandey(2110014325014)
+Shweta Yadav(2110014325025)
+Anand Singh(2110014325003)
+Nishank Tyagi(2110014325011)
